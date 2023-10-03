@@ -1,7 +1,7 @@
 # Hardy-Weinberg-Equilibrium-JavaScript
 
 ## Allele frequencies
-> f(A1) = p
+> f(A1) = p >
 > f(A2) = q
 
 ## Genotype frequencies
